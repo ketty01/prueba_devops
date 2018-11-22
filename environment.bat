@@ -1,0 +1,12 @@
+@echo off
+set OS_AUTH_URL=http://10.28.3.240:5000/v3
+set OS_IDENTITY_API_VERSION=3
+set OS_TENANT_NAME=0a6304c2f52e40df983cb755d9561987
+set OS_PROJECT_NAME=fj_kettycamacho_at07-lab
+set OS_USERNAME=kettycamacho
+set OS_PASSWORD=KKKK0102018c
+set OS_DOMAIN_NAME=fundacion-jala
+set OS_FLAVOR=f4.lab.largea
+set OS_IMAGE=ubuntu-14.04-amd64-server_18062018
+set OS_KEY_PAIR_NAME=windowsk
+set OS_REGION_NAME=bootstack-jalasoft
